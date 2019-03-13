@@ -1,6 +1,6 @@
 def hello_t (array)
   i = 1
-  while i < array.length 
+  while i < array.length
     yeild array[i]
     i = i + 1
   end
